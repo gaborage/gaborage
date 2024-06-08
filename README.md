@@ -1,16 +1,18 @@
-# 💫 About Me:
-😎 I am a Software Engineer with a passion for Science and a fitness enthusiast<br>📩 Shoot me an email or add me on LinkedIn.
+# Hi there, I'm Gabriel 👋
 
+I'm a Software Engineer with a passion for building scalable SaaS solutions using Java and ReactJS. I specialize in API automation, web application development, and Chrome extension testing.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielrosales) 
+- 🔭 I’m currently working on [Project Name](https://github.com/gaborage/project-name)
+- 🌱 I’m learning more about CI/CD with GitHub Actions
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Java, ReactJS, API automation, and testing
+- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- ⚡ Fun fact: I love solving complex problems and optimizing code for better performance
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaborage&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gaborage&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaborage&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Technologies & Tools
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=azure-devops&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2D2D2D?style=flat&logo=playwright&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=gaborage&icon=0&color=1)](https://visitcount.itsvg.in)
