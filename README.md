@@ -15,9 +15,6 @@ I'm a Software Engineer specializing in building scalable SaaS solutions and enh
 ![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=azure-devops&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2D2D2D?style=flat&logo=playwright&logoColor=white)
 
-## 📈 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaborage&show_icons=true&theme=dark)
-
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaborage&layout=compact&theme=dark)
 
